@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Recipe</string>
+    <string name="app_title">Recipe Finder</string>
+    <string name="title">What would you like to make ?</string>
+    <string name="go">Go!</string>
+    <string name="ingredients">Ingredients: e.g: tomato, sugar...</string>
+    <string name="search">Search term: e.g: meatloaf...</string>
+    <string name="tag1">WE HELP YOU</string>
+    <string name="tag2">MAKE IT !!</string>
+    <string name="Ingredients">Ingredients :</string>
+    <string name="redirect">Redirecting to the web browser....</string>
+</resources>
