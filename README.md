@@ -12,7 +12,7 @@
 
 Build a Recipe Finder app with Remote API accessible using Google's Volley Library
 
-It is a Recipe Finder app with Internet permissions enabled to access JSON data from remote API using Volley Library. The JSON data bacically include JSON Objects and JSON Array as well. For every search of a recipe a custom ListView holds the info: `Recipe Title`, `Recipe Thumbnail`, `Recipe Ingredients` and `Link`. All the data of this ListView is Parsed from Remote API, more specifically [Recipe Puppy API](http://www.recipepuppy.com/about/api/) accessible with the help of [Volley Library](https://developer.android.com/training/volley/).
+It is a Recipe Finder app with Internet permissions enabled to access JSON data from remote API using Volley Library. The JSON data basically include JSON Objects and JSON Array as well. For every search of a recipe a custom ListView holds the info: `Recipe Title`, `Recipe Thumbnail`, `Recipe Ingredients` and `Link`. All the data of this ListView is Parsed from Remote API, more specifically [Recipe Puppy API](http://www.recipepuppy.com/about/api/) accessible with the help of [Volley Library](https://developer.android.com/training/volley/).
 
 Its a Networking App which uses Google's Volley Networking Library!!
 
