@@ -12,7 +12,7 @@
 
 Build a Recipe Finder app with Remote API accessible using Google's Volley Library
 
-It is a Recipe Finder app with Internet permissions enabled to access JSON data from remote API using Volley Library. The JSON data bacically include JSON Objects and JSON Array as well. A custom ListView holds the info: `Recipe Title`, `Recipe Thumbnail`, `Recipe Ingredients` and `Link` to access the Website for full step-by-step Recipe Information. All the date of this ListView is Parsed from Remote API, more specifically [Recipe Puppy API](http://www.recipepuppy.com/about/api/) accessible with the help of [Volley Library](https://developer.android.com/training/volley/).
+It is a Recipe Finder app with Internet permissions enabled to access JSON data from remote API using Volley Library. The JSON data bacically include JSON Objects and JSON Array as well. For every search of a recipe a custom ListView holds the info: `Recipe Title`, `Recipe Thumbnail`, `Recipe Ingredients` and `Link`. All the data of this ListView is Parsed from Remote API, more specifically [Recipe Puppy API](http://www.recipepuppy.com/about/api/) accessible with the help of [Volley Library](https://developer.android.com/training/volley/).
 
 Its a Networking App which uses Google's Volley Networking Library!!
 
@@ -72,7 +72,7 @@ To directly download the apk visit the [link](https://github.com/ashish7zeph/and
 
 ## Kotlin Android Activity
 
-For Kotlin code files visit the [link](https://github.com/ashish7zeph/android-kotlin-Recipe-app/tree/master/app/src/main/java/com/zeph7/recipe)
+For Kotlin code files visit the [link](https://github.com/ashish7zeph/android-kotlin-Recipe-app/tree/master/app/src/main/java/com/zeph7/recipefinder)
 
 Backend files are stored in three packages:
 
